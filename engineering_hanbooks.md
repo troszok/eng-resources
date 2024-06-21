@@ -18,7 +18,7 @@ https://handbook.gitlab.com/handbook/
 
 VERY comprehensive handbook that covers all the topics that you might need. 
 
-Notion
+## Notion
 
 https://remotecom.notion.site/a3439c6ccaac4d5f8c7515c357345c11?v=8bb7f9be662f45da87ef4ab14a42be37
 
